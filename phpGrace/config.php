@@ -18,7 +18,7 @@ return array(
 		'pwd'            =>    'root',      // 数据库密码 
 		'dbname'         =>    'test',      // 数据库名称
 		'charset'        =>    'utf8',      // 字符集
-		'pre'            =>    't_'           // 数据表统一前缀
+		'pre'            =>    'test_'           // 数据表统一前缀
 	),
 	// 缓存类型
 	'allowCacheType'     => array('file', 'memcache', 'redis'),

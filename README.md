@@ -77,7 +77,7 @@ phpGrace  2.0.2
 
 
 ### 本框架支持使用 Composer
- Composer 使用流程
+ Composer 使用流程  
 1 安装 Composer
 ~~~
 安装教程 : https://pkg.phpcomposer.com/#how-to-install-composer

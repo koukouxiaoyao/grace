@@ -1,0 +1,17 @@
+{
+    "name":"koukouxiaoyao/grace",
+    "description": "phpgrace框架",
+    "type": "project",
+    "keywords": ["devcontrol"],
+    "homepage": "https://github.com/koukouxiaoyao/grace",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "koukouxiaoyao",
+            "email": "liukuaizhuan@qq.com"
+        }
+    ],
+    "require": {
+        "php":">=5.6"
+    }
+}

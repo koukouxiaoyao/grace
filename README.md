@@ -91,7 +91,7 @@ composer config -g repo.packagist composer https://mirrors.aliyun.com/composer/
 取消配置还原到默认的地址 : 
 composer config -g repo.packagist composer https://mirrors.aliyun.com/composer/
 ~~~
-3 框架内使用 composer
+3 框架内使用 composer   
 ~~~
 3.1 打开 cmd 或者 ios 命令；
 3.2 cd 切换到 /项目目录/phpGrace/  
